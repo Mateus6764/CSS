@@ -105,3 +105,19 @@ section h2 {
 #economy .articles article a {
     background-color: #445e44;
 }
+
+#tec {
+    background-color:#693c4b8e;
+}
+
+#tec .articles article a {
+    background-color: #492a34;
+}
+
+#entret {
+    background-color: #dacd97cb;
+}
+
+#entret .articles article a {
+    background-color: #686149;
+}
